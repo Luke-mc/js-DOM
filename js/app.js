@@ -29,7 +29,7 @@ Concatenation*/
 
  var snoopsPro = profile[0];
 
- snoopsPro.innerHTML = "gansta lorem ipsum";
+ snoopsPro.innerHTML = "Lorizzle ipsum dolizzle sit amizzle, consectetuer adipiscing hizzle. Nullizzle sapizzle velizzle, mah nizzle volutpizzle, suscipizzle fo shizzle, gravida vizzle, my shizz. Pellentesque bling bling tortizzle. Sed own yo'. Fo shizzle izzle ghetto fo shizzle mah nizzle fo rizzle, mah home g-dizzle turpizzle tempizzle fo.";
 
 /*5. Relace the n/a for Samuel L Jackson with his lorem ipsum*/
 
@@ -37,7 +37,7 @@ var profile = document.getElementsByClassName("profile");
 
  var samJack = profile[2];
 
- samJack.innerHTML = "lorem ipsum";
+ samJack.innerHTML = "Look, just because I don't be givin' no man a foot massage don't make it right for Marsellus to throw Antwone into a glass motherfuckin' house, fuckin' up the way the nigger talks. Motherfucker do that shit to me, he better paralyze my ass, 'cause I'll kill the motherfucker, know what I'm sayin'?";
 
 
 
